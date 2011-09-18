@@ -1,7 +1,3 @@
 #!/usr/bin/env bash
 
-rvm --create use 1.9.2-p180@euler-lab
-
-if ! command -v bundle ; then
-  gem install bundler
-fi
+rvm --create use 1.9.2-p180@ruby-lab
