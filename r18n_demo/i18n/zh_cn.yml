@@ -1,0 +1,13 @@
+application:
+  yiong: "一翁教育"
+  home: "主页"
+  partners: "合作伙伴"
+  about: "关于"
+
+partners:
+  huawei: "华为"
+  yebob: "一步网"
+
+about:
+  education: "教育"
+

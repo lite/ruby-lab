@@ -1,0 +1,12 @@
+application:
+  yiong: "Yiong"
+  home: "Home"
+  partners: "Partners"
+  about: "About"
+
+partners:
+  yebob: "Yebob"
+  huawei: "Huawei"
+
+about:
+  eduction: "Education"
